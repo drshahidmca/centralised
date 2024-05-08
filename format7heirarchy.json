@@ -1,0 +1,74 @@
+{
+  "father": {
+    "name": "John Doe",
+    "children": [
+      {
+        "name": "Alice",
+        "children": [
+          {
+            "name": "Charlie",
+            "children": [
+              {"name": "Emily"},
+              {"name": "Ethan"}
+            ]
+          },
+          {
+            "name": "Diana",
+            "children": [
+              {"name": "Grace"}
+            ]
+          },
+          {
+            "name": "George",
+            "children": [
+              {"name": "Henry"},
+              {"name": "Isabel"},
+              {"name": "Jack"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bob",
+        "children": [
+          {
+            "name": "Lily",
+            "children": [
+              {"name": "Olivia"},
+              {"name": "Owen"},
+              {"name": "Sophia"}
+            ]
+          },
+          {
+            "name": "Matthew",
+            "children": [
+              {"name": "Zoe"},
+              {"name": "Zachary"}
+            ]
+          },
+          {
+            "name": "Nora",
+            "children": [
+              {"name": "Victor"},
+              {"name": "Violet"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Charles",
+        "children": [
+          {
+            "name": "Sophie",
+            "children": [
+              {"name": "Xavier"}
+            ]
+          },
+          {
+            "name": "William"
+          }
+        ]
+      }
+    ]
+  }
+}
