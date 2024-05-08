@@ -1,0 +1,19 @@
+{
+  "user_id": "123456",
+  "username": "john_doe",
+  "email": "john.doe@example.com",
+  "full_name": "John Doe",
+  "age": 30,
+  "gender": "male",
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "postal_code": "12345",
+    "country": "USA"
+  },
+  "interests": ["reading", "traveling", "cooking"],
+  "membership_level": "gold",
+  "last_login": "2024-05-08T12:00:00Z",
+  "account_created": "2022-01-01T08:00:00Z"
+}
