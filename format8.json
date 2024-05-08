@@ -1,0 +1,13 @@
+{
+    "name" : "Ravi Tamada", 
+    "email" : "ravi8x@gmail.com",
+    "phone" : [{
+        "home" : "08947 000000",
+        "mobile" : "9999999999"
+    },
+{
+        "home" : "4545000000",
+        "mobile" : "9459999999"
+    }],
+      "Address": "Palanpur" 
+}
